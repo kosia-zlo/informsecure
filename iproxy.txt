@@ -1,0 +1,2 @@
+https://safe-surf.ru/upload/ALRT/proxies_v2.txt
+https://safe-surf.ru/upload/ALRT/referer_http_header.txt
