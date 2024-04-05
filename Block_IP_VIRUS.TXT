@@ -9,6 +9,8 @@
 84.46.246.140 
 92.205.15.114 
 88.218.249.242
+78.37.119.191
+87.255.29.185
 stop-russian-fake.news
 cyber-ukraine.com
 ddoshohlov.net
