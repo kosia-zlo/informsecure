@@ -1,3 +1,5 @@
 *.google.*
 mail.ru
 cloudflare-dns.com
+cloudflare.com
+*.cloudflare.*
