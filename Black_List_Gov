@@ -3,3 +3,5 @@ mail.ru
 cloudflare-dns.com
 cloudflare.com
 *.cloudflare.*
+services.mozilla.com
+*.mozilla.*
