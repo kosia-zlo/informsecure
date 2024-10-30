@@ -1,3 +1,4 @@
+*.net.anydesk.com
 relays.net.anydesk.com
 boot.net.anydesk.com
 anydesk.com
