@@ -4,7 +4,6 @@ relay-1d1370e8.net.anydesk.com
 relay-48ce591e.net.anydesk.com
 boot.net.anydesk.com
 anydesk.com
-
 13.32.28.0/24
 13.32.53.0/24
 13.32.81.0/24
