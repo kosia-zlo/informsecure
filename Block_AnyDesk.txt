@@ -8,6 +8,11 @@ relay-ffe9a90c.net.anydesk.com
 relay-1734f890.net.anydesk.com
 relay-50938117.net.anydesk.com
 relay-ffe9a90c.net.anydesk.com
+relay-4cbf8fdb.net.anydesk.com		
+relay-a257bef0.net.anydesk.com		
+relay-8ed4b66d.net.anydesk.com						
+relay-a94e7ea4.net.anydesk.com		
+relay-0c3c7877.net.anydesk.com
 
 boot.net.anydesk.com
 anydesk.com
@@ -100,6 +105,7 @@ anydesk.com
 139.99.69.87
 139.99.69.88
 139.99.69.89
+141.95.65.94
 144.76.103.21
 144.76.78.144
 145.239.1.122
@@ -221,6 +227,7 @@ anydesk.com
 207.188.6.19
 208.115.215.134
 208.115.237.254
+208.115.231.190
 209.222.97.48
 213.198.67.114
 213.198.67.162
